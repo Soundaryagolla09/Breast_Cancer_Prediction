@@ -92,6 +92,4 @@ Cortes, C., Vapnik, V. “Support-Vector Networks,” Machine Learning, 1995.
 
 Breiman, L. “Random Forests,” Machine Learning, 2001.
 
-Scikit-learn Documentation
 
-Streamlit Documentation
